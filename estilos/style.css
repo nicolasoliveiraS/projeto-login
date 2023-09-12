@@ -18,7 +18,7 @@ body, html {
     background-color: #5f2c82;
     height: 100vh;
     width: 100vw;
-
+    
 }
 
 main {
@@ -42,7 +42,7 @@ section#login {
 
 section#login > div#imagem {
     display: block;
-    background: #5f2c82 url(../imagens/pexels-matheus-souza-3693599.jpg);
+    background: #5f2c82 url(../imagens/pexels-matheus-souza-3693599.jpg) no-repeat;
     height: 200px;
     background-size: cover;
 }
