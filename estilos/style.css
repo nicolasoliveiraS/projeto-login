@@ -17,7 +17,8 @@ Lilás: #5f2c82
 body, html {
     background-color: #5f2c82;
     height: 100vh;
-    width: 100vw;  
+    width: 100vw; 
+    scrollbar-width: none; 
 }
 
 main {
@@ -59,4 +60,10 @@ div#formulario h1{
 
 div#formulario p {
     font-size: 0.8em;
+}
+
+form > input[type=submit] {
+    display: block;
+    font-size: 1em;
+    width
 }
