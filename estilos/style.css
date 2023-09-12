@@ -7,11 +7,6 @@ Verde:
 Lilás: #5f2c82
 */
 
-    body:vertical { 
-        overflow-x: hidden;
-        overflow-y: hidden;
-    }
-
 * {
     margin: 0px;
     padding: 0px;
