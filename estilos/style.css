@@ -7,12 +7,10 @@ Verde:
 Lilás: #5f2c82
 */
 
-@media vertical {
-    body { 
+    body:vertical { 
         overflow-x: hidden;
         overflow-y: hidden;
     }
-}
 
 * {
     margin: 0px;
@@ -23,7 +21,7 @@ Lilás: #5f2c82
 
 body, html {
     background-color: #5f2c82;
-    height: 100vh;
+    height: 100%;
     width: 100vw;  
 }
 
