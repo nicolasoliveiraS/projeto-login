@@ -20,6 +20,8 @@ body, html {
     width: 100vw;  
 }
 
+body { overflow-x: hidden; }
+
 main {
     position: relative;
     height: 100vh;
